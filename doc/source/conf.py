@@ -19,7 +19,7 @@
 
 project = "python-stub"
 copyright = "2021 IIASA"
-author = "Daniel Huppmann"
+author = "MESSAGEix Team"
 
 
 # -- General configuration ---------------------------------------------------
