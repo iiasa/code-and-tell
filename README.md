@@ -16,3 +16,8 @@ notebook is sufficient, the suggested naming convention is
 using the same name and put the material there.
 
 Please also make sure that the `requirements.txt` is kept up to date.
+
+## Content
+
+- 2021-05-26 (@phackstock): Type Hints
+- 2021-06-09 (@phackstock): fnmatch
