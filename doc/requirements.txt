@@ -1,0 +1,3 @@
+# migrate to package-dependencies and update the readme if turning this into a package
+sphinx
+sphinx_rtd_theme
