@@ -22,4 +22,4 @@ Please also make sure that the `requirements.txt` is kept up to date.
 - 2021-05-26 (@phackstock): Type Hints
 - 2021-06-09 (@phackstock): fnmatch
 - 2021-06-16 (@danielhuppmann): Using pyam to compute derived indicators
-- 2021-08-04 (@phackstock): Two tricks one pitfall
+- 2021-08-04 (@phackstock): Two tricks and a pitfall
