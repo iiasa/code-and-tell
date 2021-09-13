@@ -7,13 +7,13 @@ Copyright (c) 2021 IIASA
 
 ## Overview
 
-This repository contains a collection of small code snippets presented during the MESSAGEix
-weekly meetings.
+This repository contains a collection of small code snippets presented during
+the MESSAGEix weekly meetings.
 
-The idea is that each presentation is centered around a jupyter notebook. In case a single
-notebook is sufficient, the suggested naming convention is
-`YYYY-MM-DD-name-of-the-topic.ipynb`. If you have multiple files, please create a directory
-using the same name and put the material there.
+The idea is that each presentation is centered around a jupyter notebook. In
+case a single notebook is sufficient, the suggested naming convention is
+`YYYY-MM-DD-name-of-the-topic.ipynb`. If you have multiple files, please create
+a directory using the same name and put the material there.
 
 Please also make sure that the `requirements.txt` is kept up to date.
 
@@ -23,3 +23,4 @@ Please also make sure that the `requirements.txt` is kept up to date.
 - 2021-06-09 (@phackstock): fnmatch
 - 2021-06-16 (@danielhuppmann): Using pyam to compute derived indicators
 - 2021-08-04 (@phackstock): Two tricks and a pitfall
+- 2021-09-08 (@phackstock): Easy parallel computing
