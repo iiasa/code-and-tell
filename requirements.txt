@@ -2,3 +2,4 @@ pandas
 pyam-iamc >= 0.12  # the pyam package is released on pypi under this name
 joblib
 numpy
+pooch
